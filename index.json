@@ -2,6 +2,6 @@
   "version": 1,
   "plugins": [
     { "repo": "acubemy/cube-roller", "ref": "v1.1.0" },
-    { "repo": "acubemy/cube-beats", "ref": "v1.0.0" }
+    { "repo": "acubemy/cube-beats", "ref": "v1.0.1" }
   ]
 }
