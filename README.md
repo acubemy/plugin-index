@@ -1,5 +1,5 @@
 # acubemy plugin index
 
-Curated list of plugins shown on acubemy's **Explore** page. Each entry pins a repo to a reviewed tag or commit.
+List of plugins shown on acubemy's **Explore** page. Entries follow the repo's default branch; add a `ref` (tag or branch) to hold an entry at a specific version.
 
-To propose a plugin, open a pull request that adds `{ "repo": "owner/name", "ref": "<tag or commit>" }` to `index.json`.
+To propose a plugin, open a pull request that adds `{ "repo": "owner/name" }` to `index.json`.
